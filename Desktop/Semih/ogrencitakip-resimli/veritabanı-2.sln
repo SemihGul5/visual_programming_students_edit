@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veritabanı-2", "veritabanı-2\veritabanı-2.csproj", "{39929F78-2937-4F10-9893-855117ACF60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39929F78-2937-4F10-9893-855117ACF60A}.Debug|x86.ActiveCfg = Debug|x86
+		{39929F78-2937-4F10-9893-855117ACF60A}.Debug|x86.Build.0 = Debug|x86
+		{39929F78-2937-4F10-9893-855117ACF60A}.Release|x86.ActiveCfg = Release|x86
+		{39929F78-2937-4F10-9893-855117ACF60A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

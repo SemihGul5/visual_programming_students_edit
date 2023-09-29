@@ -1,0 +1,40 @@
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.exe
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.pdb
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Form1.resources
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Properties.Resources.resources
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.csproj.GenerateResource.Cache
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.exe
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.pdb
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.exe
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.pdb
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.exe
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.pdb
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Form1.resources
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Properties.Resources.resources
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mehmet\Desktop\fadime-veritabanı\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.exe
+C:\Users\mehmet\Desktop\fadime-veritabanı\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.pdb
+C:\Users\mehmet\Desktop\fadime-veritabanı\ogrenci takip otomasyon-resimli\veritabanı-2\bin\Debug\veritabanı-2.exe
+C:\Users\mehmet\Desktop\fadime-veritabanı\ogrenci takip otomasyon-resimli\veritabanı-2\bin\Debug\veritabanı-2.pdb
+C:\Users\mehmet\Desktop\fadime-veritabanı\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı_2.Form1.resources
+C:\Users\mehmet\Desktop\fadime-veritabanı\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı_2.Properties.Resources.resources
+C:\Users\mehmet\Desktop\fadime-veritabanı\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.csproj.GenerateResource.Cache
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.exe
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.pdb
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\bin\Debug\veritabanı-2.exe
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\bin\Debug\veritabanı-2.pdb
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı_2.Form1.resources
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı_2.Properties.Resources.resources
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\eee\Desktop\MEHMET\NESNE-ÖRNEK UYGULAMALAR\SON_VERİTABANI_ÖRNEKLER\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SEMİH\Desktop\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.exe
+C:\Users\SEMİH\Desktop\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.pdb
+C:\Users\SEMİH\Desktop\ogrenci takip otomasyon-resimli\veritabanı-2\bin\Debug\veritabanı-2.exe
+C:\Users\SEMİH\Desktop\ogrenci takip otomasyon-resimli\veritabanı-2\bin\Debug\veritabanı-2.pdb
+C:\Users\SEMİH\Desktop\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH\Desktop\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı_2.Form1.resources
+C:\Users\SEMİH\Desktop\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı_2.Properties.Resources.resources
+C:\Users\SEMİH\Desktop\ogrenci takip otomasyon-resimli\veritabanı-2\obj\x86\Debug\veritabanı-2.csproj.GenerateResource.Cache
